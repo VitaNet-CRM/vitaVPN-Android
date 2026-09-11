@@ -1,191 +1,225 @@
-نسخه فعلی
+# vitaVPN
 
-نسخه پایدار فعلی:
+### سریع، امن، بدون محدودیت
+### Fast. Secure. Without Limits.
 
-vitaVPN v1.0.0 
+**vitaVPN** یک کلاینت VPN برای Android است که با تمرکز بر اتصال پایدار، امنیت و تجربه ساده برای کاربران طراحی شده است.
 
-وضعیت:
+این Repository مرجع رسمی انتشار و دانلود نسخه‌های Android برنامه **vitaVPN** است.
 
-Stable
-📱 کدام APK را دانلود کنم؟
-نوع دستگاه	فایل مناسب
-اکثر گوشی‌های Android جدید	arm64-v8a ✅
-گوشی‌های قدیمی 32 بیتی	armeabi-v7a
-دستگاه‌های Android با معماری x86	x86
-Emulator یا دستگاه x86_64	x86_64
+> 🇮🇷 تمرکز اصلی vitaVPN روی کاربران فارسی‌زبان و کاربران داخل ایران است.
 
-اگر مطمئن نیستید، در بیشتر مواقع این نسخه مناسب شماست:
+---
 
-vitaVPN-v1.0.0-arm64-v8a.apk
+# 🇮🇷 دانلود vitaVPN برای Android
 
+## ⬇️ دانلود پیشنهادی
 
-# 🇮🇷 دانلود vitaVPN
+برای اکثر گوشی‌های جدید Android، از جمله بیشتر مدل‌های:
 
-## دانلود پیشنهادی برای اکثر گوشی‌های Android
+- Samsung
+- Xiaomi
+- Poco
+- OnePlus
+- Google Pixel
 
-برای اکثر گوشی‌های جدید Android، از جمله بیشتر مدل‌های Samsung، Xiaomi، Poco و OnePlus، نسخه **arm64-v8a** مناسب است.
+نسخه **arm64-v8a** پیشنهاد می‌شود.
 
-### ⬇️ دانلود مستقیم vitaVPN برای Android
+### ✅ دانلود مستقیم نسخه پیشنهادی
 
-[**⬇️ دانلود vitaVPN v1.0.0 — arm64-v8a**](https://github.com/VitaVPN/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
+[**⬇️ دانلود مستقیم vitaVPN v1.0.0 — arm64-v8a**](https://github.com/VitaVPN/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
 
-**نسخه:** v1.0.0  
+**نسخه:** `v1.0.0`  
 **وضعیت:** Stable  
-**معماری پیشنهادی:** arm64-v8a
+**سیستم‌عامل:** Android  
+**معماری پیشنهادی:** `arm64-v8a`
 
-اگر دستگاه شما معماری دیگری دارد:
+[**مشاهده همه فایل‌های نسخه v1.0.0**](https://github.com/VitaVPN/vitaVPN-Android/releases/tag/v1.0.0)
 
-[مشاهده همه نسخه‌ها و فایل‌های دانلود](https://github.com/VitaVPN/vitaVPN-Android/releases/tag/v1.0.0)
+---
 
-✨ امکانات vitaVPN
-اتصال امن VPN
-پشتیبانی از WireGuard
-پشتیبانی از Xray
-مدیریت خودکار اتصال
-Failover بین پروتکل‌ها
-نمایش وضعیت لحظه‌ای اتصال
-نمایش زمان اتصال
-اندازه‌گیری Latency سرور
-نمایش سرعت Download و Upload
-نمایش مصرف حجم
-نمایش اعتبار سرویس
-نمایش تعداد دستگاه‌های ثبت‌شده
-رابط کاربری Dark و Light
-پشتیبانی از زبان فارسی
-پشتیبانی از زبان انگلیسی
-پشتیبانی کامل از RTL و LTR
-طراحی Responsive برای اندازه‌های مختلف صفحه
-رابط کاربری بهینه‌شده برای گوشی‌های کوچک و بزرگ
-📥 راهنمای نصب
-وارد بخش Releases شوید.
-آخرین نسخه vitaVPN را باز کنید.
-فایل مناسب گوشی خود را دانلود کنید.
-برای اکثر گوشی‌ها فایل arm64-v8a مناسب است.
-فایل APK دانلودشده را باز کنید.
-اگر Android درخواست اجازه نصب از این منبع را داد، آن را فعال کنید.
-برنامه را نصب کنید.
-vitaVPN را اجرا کنید.
-🔄 بروزرسانی برنامه
+# 📱 کدام نسخه را دانلود کنم؟
 
-اگر قبلاً vitaVPN روی گوشی شما نصب شده است، معمولاً نیازی به حذف نسخه قبلی ندارید.
+| دستگاه | نسخه مناسب |
+|---|---|
+| اکثر گوشی‌های جدید Android | `arm64-v8a` ✅ |
+| گوشی‌های قدیمی 32 بیتی | `armeabi-v7a` |
+| دستگاه‌های Android با پردازنده x86 | `x86` |
+| Emulator و دستگاه‌های x86_64 | `x86_64` |
 
-فایل APK نسخه جدید را دانلود کرده و روی نسخه فعلی نصب کنید.
+اگر نمی‌دانید کدام نسخه مناسب دستگاه شماست، در بیشتر موارد این فایل را دانلود کنید:
 
-در بروزرسانی عادی، اطلاعات و وضعیت فعال‌سازی برنامه باید حفظ شود.
+`vitaVPN-v1.0.0-arm64-v8a.apk`
 
-برای بروزرسانی معمولی، برنامه را Uninstall نکنید مگر اینکه در توضیحات یک نسخه مشخص صراحتاً گفته شده باشد.
+---
 
-🔐 امنیت
+# ✨ امکانات vitaVPN
 
-برای امنیت خود:
+- اتصال امن VPN
+- پشتیبانی از WireGuard
+- پشتیبانی از Xray
+- مدیریت خودکار اتصال
+- Cross-protocol Failover
+- نمایش وضعیت لحظه‌ای اتصال
+- نمایش زمان اتصال
+- اندازه‌گیری Latency سرور
+- نمایش سرعت Download و Upload
+- نمایش مصرف حجم
+- نمایش اعتبار سرویس
+- نمایش تعداد دستگاه‌های ثبت‌شده
+- Dark Mode و Light Mode
+- پشتیبانی از زبان فارسی
+- پشتیبانی از English
+- پشتیبانی از RTL و LTR
+- طراحی Responsive برای اندازه‌های مختلف صفحه
+- رابط کاربری بهینه برای گوشی‌های کوچک و بزرگ
 
-فقط نسخه‌های منتشرشده در این Repository رسمی را نصب کنید.
-از نصب APKهای تغییر داده‌شده یا منابع ناشناس خودداری کنید.
-اطلاعات فعال‌سازی خود را در اختیار دیگران قرار ندهید.
-در صورت نیاز، SHA-256 فایل APK را بررسی کنید.
+---
 
-فایل زیر همراه Release منتشر می‌شود:
+# 📥 راهنمای نصب
 
-SHA256SUMS.txt
+1. فایل APK مناسب دستگاه خود را دانلود کنید.
+2. برای اکثر گوشی‌ها نسخه `arm64-v8a` مناسب است.
+3. فایل APK دانلودشده را باز کنید.
+4. اگر Android اجازه نصب از این منبع را درخواست کرد، آن را فعال کنید.
+5. برنامه را نصب کنید.
+6. **vitaVPN** را اجرا کنید.
 
-این فایل شامل SHA-256 نسخه‌های رسمی APK است.
+---
 
-✅ SHA-256 نسخه v1.0.0
-arm64-v8a
+# 🔄 بروزرسانی vitaVPN
+
+اگر نسخه قبلی vitaVPN روی گوشی شما نصب شده است، معمولاً نیازی به حذف برنامه ندارید.
+
+نسخه جدید را دانلود کرده و روی نسخه فعلی نصب کنید.
+
+> برای بروزرسانی عادی، vitaVPN را Uninstall نکنید مگر اینکه در توضیحات یک نسخه صراحتاً اعلام شده باشد.
+
+---
+
+# 🔐 امنیت و اصالت فایل
+
+APK را فقط از این Repository رسمی یا سایر کانال‌های رسمی **vitaVPN** دریافت کنید.
+
+همراه هر Release فایل زیر منتشر می‌شود:
+
+`SHA256SUMS.txt`
+
+با استفاده از SHA-256 می‌توانید از سالم و اصلی بودن فایل دانلودشده مطمئن شوید.
+
+## SHA-256 نسخه v1.0.0
+
+**arm64-v8a**
+
+```text
 875cb38ca5c5e656146b55e2fbc380de3667aaab3daafb2e30b7d2ca937526d5
-armeabi-v7a
+```
+
+**armeabi-v7a**
+
+```text
 cf6cb1328d64c61b5297b20971b85791799e0861cad8f1d9029c52ed59808397
-x86
+```
+
+**x86**
+
+```text
 d58070ac56010bc841098eb6892fe5161400d2d0939808596689331bbf7f2b25
-x86_64
+```
+
+**x86_64**
+
+```text
 309fd6fbac07c174f9794c6f11571061f5404f33bd6ece636d75c1db86f400d7
-🌐 زبان برنامه
+```
+
+---
+
+# 🌐 زبان‌ها
 
 vitaVPN از دو زبان پشتیبانی می‌کند:
 
+- 🇮🇷 فارسی
+- 🇬🇧 English
 
-🇮🇷 فارسی
-🇬🇧 English
+رابط کاربری برنامه از هر دو حالت **RTL** و **LTR** پشتیبانی می‌کند.
 
-رابط کاربری برای هر دو حالت زیر طراحی شده است:
+---
 
-RTL
-LTR
+# ⚠️ درباره Source Code
 
-تمرکز اصلی پروژه بر ارائه تجربه مناسب برای کاربران فارسی‌زبان است.
+سورس اصلی برنامه Android **vitaVPN** در حال حاضر در این Repository منتشر نمی‌شود.
 
-⚠️ نکته درباره Source code
+GitHub ممکن است در صفحه Release به‌صورت خودکار این فایل‌ها را نمایش دهد:
 
-GitHub ممکن است در هر Release به‌صورت خودکار گزینه‌های زیر را نمایش دهد:
-
-Source code (zip)
-Source code (tar.gz)
+- `Source code (zip)`
+- `Source code (tar.gz)`
 
 این فایل‌ها فقط شامل محتوای همین Repository عمومی هستند و سورس اصلی برنامه Android vitaVPN نیستند.
 
-سورس اصلی برنامه در حال حاضر Public نیست.
+---
 
-🇬🇧 English
-About vitaVPN
+# 🇬🇧 English
 
-vitaVPN is a modern Android VPN client focused on secure, reliable and simple connectivity.
+## About vitaVPN
 
-This repository is the official public distribution channel for vitaVPN Android releases.
+**vitaVPN** is an Android VPN client focused on secure, reliable and simple connectivity.
+
+This repository is the official public distribution channel for **vitaVPN Android releases**.
 
 The application source code is not currently published in this repository.
 
-Official APK packages are distributed through GitHub Releases.
+---
 
-Download
+## Download
 
-For most modern Android phones, the recommended architecture is:
+For most modern Android phones, the recommended version is:
 
-arm64-v8a
+**arm64-v8a**
 
-⬇️ Download the latest vitaVPN release
+[**⬇️ Download vitaVPN v1.0.0 — arm64-v8a**](https://github.com/VitaVPN/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
 
-For the current release, most users should download:
+[**View all release files**](https://github.com/VitaVPN/vitaVPN-Android/releases/tag/v1.0.0)
 
-vitaVPN-v1.0.0-arm64-v8a.apk
-Features
-Secure VPN connectivity
-WireGuard support
-Xray-based connectivity
-Automatic connection management
-Cross-protocol failover
-Real-time connection status
-Connection timer
-Live latency measurement
-Live Download and Upload statistics
-Data usage information
-Subscription validity information
-Registered device information
-Dark and Light themes
-Persian and English language support
-RTL and LTR interface support
-Responsive layout for different Android screen sizes
-Installation
-Open the latest GitHub Release.
-Download the APK matching your device architecture.
-For most modern Android phones, choose arm64-v8a.
-Open the downloaded APK.
-Allow installation from the source if Android requests permission.
-Install vitaVPN.
-Open the application.
+---
 
-When updating an existing vitaVPN installation, you normally do not need to uninstall the previous version.
+## Features
 
-Official Release Information
+- WireGuard support
+- Xray-based connectivity
+- Automatic connection management
+- Cross-protocol failover
+- Real-time connection status
+- Connection timer
+- Live latency measurement
+- Download and Upload statistics
+- Data usage information
+- Subscription validity information
+- Registered device information
+- Dark and Light themes
+- Persian and English support
+- RTL and LTR support
+- Responsive Android interface
 
-Product: vitaVPN
-Platform: Android
-Current Release: v1.0.0
-Status: Stable
-Primary Language Focus: Persian
-Supported Languages: Persian / English
+---
 
-License
+## Release Information
+
+**Product:** vitaVPN  
+**Platform:** Android  
+**Current Release:** v1.0.0  
+**Status:** Stable  
+**Primary Language Focus:** Persian  
+**Supported Languages:** Persian / English
+
+---
+
+## License
 
 No open-source license is currently granted for the proprietary vitaVPN application or its private components.
 
 Unless explicitly stated otherwise, all rights are reserved.
+
+---
+
+© vitaVPN. All rights reserved.
