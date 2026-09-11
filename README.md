@@ -83,6 +83,25 @@ x86_64
 
 vitaVPN از دو زبان پشتیبانی می‌کند:
 
+
+# 🇮🇷 دانلود vitaVPN
+
+## دانلود پیشنهادی برای اکثر گوشی‌های Android
+
+برای اکثر گوشی‌های جدید Android، از جمله بیشتر مدل‌های Samsung، Xiaomi، Poco و OnePlus، نسخه **arm64-v8a** مناسب است.
+
+### ⬇️ دانلود مستقیم vitaVPN برای Android
+
+[**⬇️ دانلود vitaVPN v1.0.0 — arm64-v8a**](https://github.com/VitaVPN/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
+
+**نسخه:** v1.0.0  
+**وضعیت:** Stable  
+**معماری پیشنهادی:** arm64-v8a
+
+اگر دستگاه شما معماری دیگری دارد:
+
+[مشاهده همه نسخه‌ها و فایل‌های دانلود](https://github.com/VitaVPN/vitaVPN-Android/releases/tag/v1.0.0)
+
 🇮🇷 فارسی
 🇬🇧 English
 
